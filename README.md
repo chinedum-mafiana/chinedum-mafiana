@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-🔭 I’m currently working on ETL projects
-- 🌱 I’m currently learning Data ENgineering
+
+- 🔭 I’m currently working on ETL projects
+- 🌱 I’m currently learning Data Engineering
 - 📫 How to reach me: nedu.mafiana@gmail.com
 
 <!--
